@@ -7,3 +7,4 @@ Mark depreciated functions in cl-naive-* libraries.
 | commit  | 0d2f818                                                 |
 | systems | cl-naive-deprecation                                    |
 |---------+---------------------------------------------------------|
+ 
