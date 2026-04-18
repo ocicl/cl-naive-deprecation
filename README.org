@@ -4,7 +4,7 @@ Mark depreciated functions in cl-naive-* libraries.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.com/naive-x/cl-naive-deprecation.git |
-| commit  | 0d2f818                                                 |
+| commit  | 8be8747                                                 |
 | systems | cl-naive-deprecation                                    |
 |---------+---------------------------------------------------------|
  
